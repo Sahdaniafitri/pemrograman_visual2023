@@ -1,0 +1,12 @@
+C:\Users\sahda\Downloads\quiz sindi nur fadilah\quiz sindi nur fadilah\bin\Debug\Mahasiswa_Client_API.exe.config
+C:\Users\sahda\Downloads\quiz sindi nur fadilah\quiz sindi nur fadilah\obj\Debug\Mahasiswa_Client_API.exe
+C:\Users\sahda\Downloads\quiz sindi nur fadilah\quiz sindi nur fadilah\obj\Debug\Mahasiswa_Client_API.xml
+C:\Users\sahda\Downloads\quiz sindi nur fadilah\quiz sindi nur fadilah\obj\Debug\Mahasiswa_Client_API.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\Aplikasi penyewaan baju pesta\bin\Debug\Mahasiswa_Client_API.exe.config
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\Aplikasi penyewaan baju pesta\obj\Debug\Mahasiswa_Client_API.exe
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\Aplikasi penyewaan baju pesta\obj\Debug\Mahasiswa_Client_API.xml
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\Aplikasi penyewaan baju pesta\obj\Debug\Mahasiswa_Client_API.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\Aplikasi penyewaan baju pesta\obj\Debug\bajupesta.vbprojResolveAssemblyReference.cache
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\Aplikasi penyewaan baju pesta\obj\Debug\Mahasiswa_Client_API.Form4.resources
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\Aplikasi penyewaan baju pesta\obj\Debug\Mahasiswa_Client_API.Resources.resources
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\Aplikasi penyewaan baju pesta\obj\Debug\bajupesta.vbproj.GenerateResource.Cache
