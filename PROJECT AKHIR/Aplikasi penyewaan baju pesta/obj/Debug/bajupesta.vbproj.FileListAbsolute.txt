@@ -1,0 +1,4 @@
+C:\Users\sahda\Downloads\quiz sindi nur fadilah\quiz sindi nur fadilah\bin\Debug\Mahasiswa_Client_API.exe.config
+C:\Users\sahda\Downloads\quiz sindi nur fadilah\quiz sindi nur fadilah\obj\Debug\Mahasiswa_Client_API.exe
+C:\Users\sahda\Downloads\quiz sindi nur fadilah\quiz sindi nur fadilah\obj\Debug\Mahasiswa_Client_API.xml
+C:\Users\sahda\Downloads\quiz sindi nur fadilah\quiz sindi nur fadilah\obj\Debug\Mahasiswa_Client_API.pdb
