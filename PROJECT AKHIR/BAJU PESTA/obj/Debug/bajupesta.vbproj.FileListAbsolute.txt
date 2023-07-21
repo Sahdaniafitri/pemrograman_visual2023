@@ -1,0 +1,28 @@
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\BAJU PESTA\bin\Debug\Mahasiswa_Client_API.exe.config
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\BAJU PESTA\obj\Debug\Mahasiswa_Client_API.exe
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\BAJU PESTA\obj\Debug\Mahasiswa_Client_API.xml
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\BAJU PESTA\obj\Debug\Mahasiswa_Client_API.pdb
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\BAJU PESTA\obj\Debug\bajupesta.vbprojResolveAssemblyReference.cache
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\BAJU PESTA\obj\Debug\Mahasiswa_Client_API.Form4.resources
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\BAJU PESTA\obj\Debug\Mahasiswa_Client_API.Resources.resources
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\BAJU PESTA\obj\Debug\bajupesta.vbproj.GenerateResource.Cache
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\BAJU PESTA\bin\Debug\Mahasiswa_Client_API.exe
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\BAJU PESTA\bin\Debug\Mahasiswa_Client_API.pdb
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\BAJU PESTA\bin\Debug\Mahasiswa_Client_API.xml
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\BAJU PESTA\bin\Debug\MySql.Data.dll
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\BAJU PESTA\bin\Debug\Newtonsoft.Json.pdb
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\BAJU PESTA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\BAJU PESTA\bin\Debug\Mahasiswa_Client_API.exe.config
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\BAJU PESTA\obj\Debug\Mahasiswa_Client_API.exe
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\BAJU PESTA\obj\Debug\Mahasiswa_Client_API.xml
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\BAJU PESTA\obj\Debug\Mahasiswa_Client_API.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\BAJU PESTA\bin\Debug\Mahasiswa_Client_API.exe
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\BAJU PESTA\bin\Debug\Mahasiswa_Client_API.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\BAJU PESTA\bin\Debug\Mahasiswa_Client_API.xml
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\BAJU PESTA\bin\Debug\MySql.Data.dll
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\BAJU PESTA\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\BAJU PESTA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\BAJU PESTA\obj\Debug\bajupesta.vbprojResolveAssemblyReference.cache
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\BAJU PESTA\obj\Debug\Mahasiswa_Client_API.Form4.resources
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\BAJU PESTA\obj\Debug\Mahasiswa_Client_API.Resources.resources
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\BAJU PESTA\obj\Debug\bajupesta.vbproj.GenerateResource.Cache
